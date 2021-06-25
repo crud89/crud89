@@ -4,7 +4,7 @@ My name is Carsten and I love software development. I am mostly writing computer
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=crud89&count_private=true&show_icons=true&bg_color=42,7f96da,1fa3da&title_color=fff&text_color=fff" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crud89&bg_color=42,7f96da,1fa3da&title_color=fff&text_color=fff&langs_count=6&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crud89&bg_color=42,1fa3da,7f96da&title_color=fff&text_color=fff&langs_count=6&layout=compact" />
 </div>
 
 <p align="center">
