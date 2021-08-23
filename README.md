@@ -1,6 +1,10 @@
 ## Hello everybody 👋
 
-My name is Carsten and I love software development. I am mostly writing computer graphics and rendering software. I love video game technology. In the past, I also did a lot of modding for the GTA III era games.
+My name is Carsten and I love software development. I am mostly writing computer graphics and rendering software. I love video game technology. 
+
+In the past, I also did a lot of modding for the GTA III era games. I started and lead the infamous [GTA: United](http://www.gtaunited.net/home.p1.html) modification for GTA: San Andreas and did some programming and scripting for [GTA: Berlin](http://www.gtaberlin.de/). I also wrote some tools, of which I unfortunately lost access to the source code over the time (but there are better alternatives nowadays, anyway). I contributed much of my knowledge to the [GTA Mods Wiki](https://gtamods.com/wiki/Main_Page) and continue to do this until this date from time to time.
+
+However, most of my current free-time projects relate on graphics engine architecture and modern rendering APIs. In particular, I am developing the [LiteFX engine](https://litefx.crudolph.io). I also do research in Virtual, Augmented and Diminished Reality and image/texture synthesis.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=crud89&count_private=true&show_icons=true&bg_color=42,7f96da,1fa3da&title_color=fff&text_color=fff" />
