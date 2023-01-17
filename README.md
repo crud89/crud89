@@ -7,8 +7,8 @@ In the past, I also did a lot of modding for the GTA III era games. I started an
 However, most of my current free-time projects relate on graphics engine architecture and modern rendering APIs. In particular, I am developing the [LiteFX engine](https://litefx.crudolph.io). I also do research in Virtual, Augmented and Diminished Reality and image/texture synthesis.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=crud89&count_private=true&show_icons=true&bg_color=42,7f96da,1fa3da&title_color=fff&text_color=fff" width="420" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crud89&bg_color=42,1fa3da,7f96da&title_color=fff&text_color=fff&langs_count=6&layout=compact" width="350" height="165" />
+  <img src="https://github-readme-stats-a0xah8fpb-crud89.vercel.app/api?username=crud89&count_private=true&show_icons=true&bg_color=42,7f96da,1fa3da&title_color=fff&text_color=fff" width="420" height="165" />
+  <img src="https://github-readme-stats-a0xah8fpb-crud89.vercel.app/api/top-langs/?username=crud89&bg_color=42,1fa3da,7f96da&title_color=fff&text_color=fff&langs_count=6&layout=compact" width="350" height="165" />
 </div>
 
 <p align="center">
