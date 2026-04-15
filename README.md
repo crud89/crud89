@@ -12,5 +12,5 @@ In my research I focus on Virtual and Mixed Reality. In my free-time I study gra
 </div>
 
 <p align="center">
-  🌍 <a href="https://www.crudolph.io">Website</a> • 📸 <a href="https://photography.crudolph.io">Photography</a> • ✨ <a href="https://litefx.crudolph.io">LiteFX Engine</a> • 🦅 <a href="https://twitter.com/Aschratt">Twitter</a> • 🔗 <a href="https://www.linkedin.com/in/crudolph89/">LinkedIn</a> • 📺 <a href="https://www.youtube.com/channel/UCj7_ud48sGvTdknA1frg_Kw">YouTube</a>
+  🌍 <a href="https://www.crudolph.io">Website</a> • 📸 <a href="https://photography.crudolph.io">Photography</a> • ✨ <a href="https://litefx.crudolph.io">LiteFX Engine</a> • 🦅 <a href="https://twitter.com/crudolphio">Twitter</a> • 🔗 <a href="https://www.linkedin.com/in/crudolph89/">LinkedIn</a> • 📺 <a href="https://www.youtube.com/channel/UCj7_ud48sGvTdknA1frg_Kw">YouTube</a>
 </p>
